@@ -1,0 +1,1 @@
+/usr/local/bin/c++   -g    CMakeFiles/my_cmake_exe.dir/main.cpp.o CMakeFiles/my_cmake_exe.dir/src/test.cpp.o  -o my_cmake_exe -rdynamic 
